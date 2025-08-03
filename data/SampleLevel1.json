@@ -5,14 +5,14 @@
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "Verifier",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "percentToQualify": 70,
+    "password": "Handcam Not Required",
     "records": [
         {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
