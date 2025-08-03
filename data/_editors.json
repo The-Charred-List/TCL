@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jayslopes",
+        "link": "https://www.youtube.com/@JaySlopes"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Charredkombat",
+        "link": "https://www.youtube.com/@charredgaminggd123"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jayslopes",
+        "link": "https://www.youtube.com/@JaySlopes"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "charredkombat",
+        "link": "https://www.youtube.com/@charredgaminggd123"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jayslopes",
+        "link": "https://www.youtube.com/@JaySlopes"
     }
 ]
